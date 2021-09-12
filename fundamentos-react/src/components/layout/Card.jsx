@@ -5,7 +5,7 @@ import './Card.css';
 export default props => {
   return (
     <div className="Card">
-      <div className="Conteudo">
+      <div className="Content">
         {props.children}
       </div>
 
